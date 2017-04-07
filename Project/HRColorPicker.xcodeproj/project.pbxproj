@@ -98,14 +98,14 @@
 				DA3CD22D148205F700492DF7 /* HRBrightnessCursor.m */,
 				DA3CD2301482068B00492DF7 /* HRColorCursor.h */,
 				DA3CD2311482068B00492DF7 /* HRColorCursor.m */,
-				5A960E1844766B749480FD79 /* HRColorMapView.m */,
 				5A960F2A9C9BAA292C0D92E5 /* HRColorMapView.h */,
-				5A9601E646B60A41D7B272B6 /* UIImage+CoreGraphics.m */,
+				5A960E1844766B749480FD79 /* HRColorMapView.m */,
 				5A9607E144B89628A7AD769B /* UIImage+CoreGraphics.h */,
-				5A9606B41F0C30F27038D44F /* HRBrightnessSlider.m */,
+				5A9601E646B60A41D7B272B6 /* UIImage+CoreGraphics.m */,
 				5A96000BB289E1B816E7711D /* HRBrightnessSlider.h */,
-				5A96068A373E534008D7C3CD /* HRColorInfoView.m */,
+				5A9606B41F0C30F27038D44F /* HRBrightnessSlider.m */,
 				5A960B38CC298F0104212AD6 /* HRColorInfoView.h */,
+				5A96068A373E534008D7C3CD /* HRColorInfoView.m */,
 			);
 			name = ColorPicker;
 			path = ../../ColorPicker;
